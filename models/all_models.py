@@ -1,1 +1,3 @@
-from aluno_models import AlunoModel
+from models.aluno_models import AlunoModel
+from models.usuario_models import UsuarioModel
+from models.professor_models import ProfessorModel
